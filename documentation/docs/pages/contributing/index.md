@@ -5,7 +5,7 @@ There are several ways we welcome feedback and contributions on ACCESS-rAM3 deve
 
 ### Report a bug or make a suggestion
 
-Technical issues related to ACCESS-rAM3 are best posted to [github.com/ACCESS-NRI/access-ram3-configs/issues](https://github.com/ACCESS-NRI/access-ram3-configs/issues). If you would like to discuss the issue first, feel free to post it on the [access hive forum](https://forum.access-hive.org.au/).
+Technical issues related to ACCESS-rAM3 are best posted on GitHub as an issue to the [access-ram3-config-docs](https://github.com/ACCESS-NRI/access-ram3-config-docs/issues) repository. If you would like to discuss the issue first, feel free to post it on the [access hive forum](https://forum.access-hive.org.au/).
 
 ### ACCESS-rAM3 configuration documentation
 

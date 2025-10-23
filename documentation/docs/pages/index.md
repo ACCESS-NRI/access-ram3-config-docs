@@ -2,7 +2,7 @@
 
 # Home
 
-Welcome to the documentation for the [ACCESS-rAM3 regional model](https://github.com/ACCESS-NRI/access-ram3-configs)! 
+Welcome to the documentation for the [ACCESS-rAM3 regional model](https://github.com/ACCESS-NRI/access-ram3-config-docs)! 
 
 
 ## ACCESS-rAM3 Quickstart 
