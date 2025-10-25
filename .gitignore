@@ -6,3 +6,4 @@ __pycache__
 ._*
 .vscode
 .pytest_cache
+.mypy_cache
