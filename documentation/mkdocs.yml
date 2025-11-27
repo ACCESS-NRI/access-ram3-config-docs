@@ -4,7 +4,7 @@
 site_name: ACCESS-rAM3-configs
 
 # Site URL
-site_url: !ENV [READTHEDOCS_CANONICAL_URL, "http://access-ram3-configs.access-hive.org.au/"]
+site_url: !ENV READTHEDOCS_CANONICAL_URL
 
 # Git repository
 repo_url: https://github.com/ACCESS-NRI/access-ram3-configs
