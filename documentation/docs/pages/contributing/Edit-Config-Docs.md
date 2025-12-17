@@ -25,7 +25,7 @@ Create a new branch, e.g. `<github username>/doc-update`, make doc changes (the 
 !!! tip
     Similar to the above, this method allows you create whole new pages and to preview the changes rendered into a website. It works whether or not you have write access to [{{repo_name}}]({{repo_url}}), but requires you to install `mkdocs` and takes the longest to set up.<br>
 
-Following [these instructions](https://docs.access-hive.org.au/about/contribute/) but noting the documentation sources are in the [`documentation` folder]({{repo_url}}/tree/main/documentation). You'll need to fork and clone the [{{repo_name}}]({{repo_url}}) repository if you want to [write your own content](https://docs.access-hive.org.au/about/contribute/contribute_on_github/) (`mkdocs serve` should be invoked from within the `documentation` directory).
+Follow [these contribution instructions](https://docs.access-hive.org.au/about/contribute/) and note the documentation source is in the [`documentation` folder]({{repo_url}}/tree/main/documentation). You'll need to fork and clone the [{{repo_name}}]({{repo_url}}) repository if you want to write your own content (`mkdocs serve` should be invoked from within the `documentation` directory).
 
 If you want to add a new page, you should add a markdown file in the [`pages`]({{repo_url}}/tree/main/documentation/docs/pages) folder (or one of its sub-folders, as appropriate) with the page-related content.<br>
 Then, update the documentation navigation in the [`mkdocs.yml` file]({{repo_url}}/blob/main/documentation/mkdocs.yml) by adding an entry under the `nav:` section. Note you'll need to specify the correct path for the added page, relative to the [`docs`]({{repo_url}}/tree/main/documentation/docs) folder.
