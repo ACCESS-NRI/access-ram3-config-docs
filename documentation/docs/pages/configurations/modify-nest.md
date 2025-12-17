@@ -85,7 +85,7 @@ For example, to set nest 1, resolution 2 name from  `d1100` to `d1000`, set the 
 
 
 ### Change the nested region name {: .no-toc }
-To change the nested region name within the [Rose GUI](#rosegui), navigate to 
+To change the nested region name within the Rose GUI, navigate to 
 
 _suite conf &rarr; Nesting Suite &rarr; Nested region 1 setup_. 
 
@@ -96,7 +96,7 @@ For example, to set the name of the nested region to `Darwin`, set the `rg01_nam
 
 ### Change the name of each individual "resolution" within the over-arching nest 1 {: .no-toc }
 
-To change the nest 1, resolution 1 name within the [Rose GUI](#rosegui), navigate to 
+To change the nest 1, resolution 1 name within the Rose GUI, navigate to 
 
 _suite conf &rarr; Nesting Suite &rarr; Nested region 1 setup &rarr; Resolution 2 setup _. 
 
