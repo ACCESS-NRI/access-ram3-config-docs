@@ -7,7 +7,7 @@
 {% set model_configurations = "/models/access-ram" %}
 {% set release_notes = "https://forum.access-hive.org.au/t/access-ram3-release-information/4308" %}
 
-To toggle a _stashpack_ within the [Rose GUI](#rosegui), navigate to 
+To toggle a _stashpack_ within the Rose GUI, navigate to 
 
 _suite conf &rarr; Nesting Suite &rarr; Nested region 1 setup &rarr; Resolution 1 setup &rarr; Config 1 setup_. 
 
